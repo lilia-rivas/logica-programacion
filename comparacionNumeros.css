@@ -1,0 +1,37 @@
+#resultados {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(191, 119, 191);
+  margin-top: 20px;
+}
+
+.tarjeta {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 500px;
+    border-top: 5px solid #bb64e7;
+    margin: 20px auto;
+}
+  
+.tarjeta-cuerpo {
+    padding: 20px;
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+.tarjeta-cuerpo p {
+    margin: 10px 0;
+    line-height: 1.6;
+    margin: 20px auto;
+}
+
+.tarjeta-cuerpo strong {
+    color: #bb64e7;
+    margin: 20px auto;
+}
