@@ -35,6 +35,6 @@ Este repositorio contiene un ejercicio de lógica de programación diseñado par
 ---
 
 ### ✍️ Autor
-Lilia Berenice Rivas Sánchez
-* **Tu Nombre Completo**
-* [Enlace a tu perfil de GitHub](Tu enlace aquí)
+
+* ** Lilia Berenice Rivas Sánchez**
+
